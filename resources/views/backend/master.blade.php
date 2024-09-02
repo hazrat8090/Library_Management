@@ -88,7 +88,7 @@
 
         @yield('content')
 
-        <div class="w3-black w3-center w3-padding-12 w3-down">Developed by <a href="mailto:abdulqaderazd1378@gmail.com" title="W3.CSS" target="_blank" class="w3-hover-opacity">Abdul Qader Azad</a></div>
+        <div class="w3-black w3-center w3-padding-12 w3-down">Developed by <a href="mailto:abdulqaderazd1378@gmail.com" title="W3.CSS" target="_blank" class="w3-hover-opacity">Hazrat Sultani</a></div>
 
     </div>
 
